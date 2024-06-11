@@ -353,6 +353,9 @@ height:16vh !important ;
 color: #fff;
 font-weight: bold;
  }
+ .nav-item:hover{
+color: #2ca4ab !important;
+ }
  .bn{
   background: rgb(238,174,202);}
   /* .positi{
@@ -361,6 +364,7 @@ font-weight: bold;
   left: 0;
 
  }
+  
  .ww{
   position: relative;
  } */
