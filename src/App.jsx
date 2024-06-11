@@ -41,7 +41,7 @@ function App() {
      <Route path='/Morning' element={<Morning/>}/>
      <Route path='/Evening' element={<Evening/>}/>
 
-     <Route path='/Quran' element={<Altafsir/>}/>
+     <Route path='/Ayat' element={<Altafsir/>}/>
      <Route path='/Radeu' element={<Radeu/>}/>
      <Route path='/quran/:number' element={<Quran/>}/>
      <Route path='/quran/tafsir/:number' element={<Tafsier/>}/>

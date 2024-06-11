@@ -135,7 +135,7 @@ export default function MainContent() {
 <div className='col-lg-4'>
   <Link to={"/Morning"}>
   <div className='position-relative '>
-  <img src="assets/evening.svg" className='w-100' alt="" />
+  <img src="/assets/evening.svg" className='w-100' alt="" />
   <div className='position-absolute  kl'>
     <h3>أذكار الصباح</h3>
   </div>

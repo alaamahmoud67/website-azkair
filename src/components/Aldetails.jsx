@@ -17,7 +17,7 @@ export default function Aldetails() {
       
       
         <li className="nav-item">
-        <Link to={"/Quran"} className='nav-link 'aria-current="page">
+        <Link to={"/Ayat"} className='nav-link 'aria-current="page">
           <p>القرآن الكريم</p>
     </Link>
         </li>
